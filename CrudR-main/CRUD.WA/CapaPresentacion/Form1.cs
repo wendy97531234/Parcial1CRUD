@@ -88,7 +88,7 @@ namespace CapaPresentacion
             txtPrecio.Clear();
             txtStock.Clear();
             txtNombre.Clear();
-            idProducto = null; // Asegúrate de limpiar también el idProducto
+            idProducto = null; 
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
