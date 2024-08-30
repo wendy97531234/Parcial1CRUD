@@ -50,7 +50,7 @@
             // 
             // dataGridView1
             // 
-            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ActiveBorder;
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(237, 34);
             this.dataGridView1.Name = "dataGridView1";
@@ -118,7 +118,7 @@
             // txtPrecio
             // 
             this.txtPrecio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.txtPrecio.Location = new System.Drawing.Point(89, 173);
+            this.txtPrecio.Location = new System.Drawing.Point(89, 180);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(121, 20);
             this.txtPrecio.TabIndex = 8;
@@ -128,7 +128,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(12, 144);
+            this.label4.Location = new System.Drawing.Point(12, 147);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(47, 13);
             this.label4.TabIndex = 7;
@@ -137,7 +137,7 @@
             // txtStock
             // 
             this.txtStock.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.txtStock.Location = new System.Drawing.Point(89, 141);
+            this.txtStock.Location = new System.Drawing.Point(89, 144);
             this.txtStock.Name = "txtStock";
             this.txtStock.Size = new System.Drawing.Size(121, 20);
             this.txtStock.TabIndex = 10;
@@ -147,7 +147,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(12, 180);
+            this.label5.Location = new System.Drawing.Point(12, 183);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(44, 13);
             this.label5.TabIndex = 9;
@@ -156,9 +156,9 @@
             // btnGuardar
             // 
             this.btnGuardar.BackColor = System.Drawing.Color.PaleGreen;
-            this.btnGuardar.Location = new System.Drawing.Point(351, 301);
+            this.btnGuardar.Location = new System.Drawing.Point(89, 218);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(88, 23);
+            this.btnGuardar.Size = new System.Drawing.Size(121, 30);
             this.btnGuardar.TabIndex = 11;
             this.btnGuardar.Text = "Guardar:";
             this.btnGuardar.UseVisualStyleBackColor = false;
@@ -167,9 +167,9 @@
             // btnEditar
             // 
             this.btnEditar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.btnEditar.Location = new System.Drawing.Point(28, 301);
+            this.btnEditar.Location = new System.Drawing.Point(604, 296);
             this.btnEditar.Name = "btnEditar";
-            this.btnEditar.Size = new System.Drawing.Size(75, 23);
+            this.btnEditar.Size = new System.Drawing.Size(118, 26);
             this.btnEditar.TabIndex = 12;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = false;
@@ -178,9 +178,9 @@
             // btnEliminar
             // 
             this.btnEliminar.BackColor = System.Drawing.Color.Crimson;
-            this.btnEliminar.Location = new System.Drawing.Point(189, 301);
+            this.btnEliminar.Location = new System.Drawing.Point(767, 300);
             this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(75, 23);
+            this.btnEliminar.Size = new System.Drawing.Size(123, 26);
             this.btnEliminar.TabIndex = 13;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = false;
@@ -189,9 +189,9 @@
             // txtBuscar
             // 
             this.txtBuscar.BackColor = System.Drawing.Color.White;
-            this.txtBuscar.Location = new System.Drawing.Point(620, 304);
+            this.txtBuscar.Location = new System.Drawing.Point(127, 300);
             this.txtBuscar.Name = "txtBuscar";
-            this.txtBuscar.Size = new System.Drawing.Size(163, 20);
+            this.txtBuscar.Size = new System.Drawing.Size(354, 20);
             this.txtBuscar.TabIndex = 15;
             this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
@@ -200,7 +200,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.White;
             this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(493, 306);
+            this.label6.Location = new System.Drawing.Point(12, 307);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(93, 13);
             this.label6.TabIndex = 16;
@@ -223,7 +223,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.IndianRed;
+            this.BackColor = System.Drawing.Color.SlateGray;
             this.ClientSize = new System.Drawing.Size(933, 341);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
