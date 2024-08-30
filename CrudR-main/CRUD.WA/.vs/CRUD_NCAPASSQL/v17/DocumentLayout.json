@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|c:\\users\\mineducyt\\desktop\\crudr\\crud-c-sharp-sql-server-poo-capas-nivel-base-master\\capadatos\\cd_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90671F18-3B92-49C7-81F0-21FFD477406D}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\mineducyt\\desktop\\crudr\\crud-c-sharp-sql-server-poo-capas-nivel-base-master\\capanegocio\\cn_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90671F18-3B92-49C7-81F0-21FFD477406D}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\mineducyt\\desktop\\crudr\\crud-c-sharp-sql-server-poo-capas-nivel-base-master\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\mineducyt\\desktop\\crudr\\crud-c-sharp-sql-server-poo-capas-nivel-base-master\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\mineducyt\\desktop\\crudr\\crud-c-sharp-sql-server-poo-capas-nivel-base-master\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFA533A2-F841-409B-98F3-0CB0BFCB1C97}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|c:\\users\\mineducyt\\desktop\\crudr\\crud-c-sharp-sql-server-poo-capas-nivel-base-master\\capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360AA80E-D3D9-482C-B50D-B106676E4AE7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADgv4AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:26:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:00:06.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CN_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaNegocio\\CN_Productos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Productos.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaNegocio\\CN_Productos.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Productos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:59:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaDatos\\CD_Productos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Productos.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaDatos\\CD_Productos.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Productos.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:55:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:18:55.672Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CD_Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaDatos\\CD_Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Conexion.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CrudR\\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\\CapaDatos\\CD_Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:41:57.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
