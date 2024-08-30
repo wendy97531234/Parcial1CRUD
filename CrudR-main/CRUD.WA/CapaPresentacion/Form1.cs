@@ -45,7 +45,7 @@ namespace CapaPresentacion
             {
                 if (Editar == false)
                 {
-                    objetoCN.InsertarProd(txtNombre.Text, txtDesc.Text, txtMarca.Text, txtPrecio.Text, txtStock.Text);
+                    objetoCN.InsetarProd(txtNombre.Text, txtDesc.Text, txtMarca.Text, txtPrecio.Text, txtStock.Text);
                     MessageBox.Show("Se insertó correctamente.");
                 }
                 else

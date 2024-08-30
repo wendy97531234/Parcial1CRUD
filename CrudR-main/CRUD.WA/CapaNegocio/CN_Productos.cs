@@ -15,7 +15,7 @@ namespace CapaNegocio
             return tabla;
         }
 
-        public void InsertarProd(string nombre, string desc, string marca, string precio, string stock)
+        public void InsetarProd(string nombre, string desc, string marca, string precio, string stock)
         {
             objetoCD.Insertar(nombre, desc, marca, Convert.ToDouble(precio), Convert.ToInt32(stock));
         }

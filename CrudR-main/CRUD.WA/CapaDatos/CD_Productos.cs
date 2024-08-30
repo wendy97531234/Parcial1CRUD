@@ -37,7 +37,7 @@ namespace CapaDatos
         {
             // Se configura y ejecuta el comando para insertar un producto utilizando un procedimiento almacenado.
             comando.Connection = conexion.AbrirConexion();
-            comando.CommandText = "InsetarProductos"; // Nota: Revisa la ortografía del nombre del procedimiento (debería ser 'InsertarProductos').
+            comando.CommandText = "InsetarProductos"; 
             comando.CommandType = CommandType.StoredProcedure;
             comando.Parameters.AddWithValue("@nombre", nombre);
             comando.Parameters.AddWithValue("@descrip", desc);
